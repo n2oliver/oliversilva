@@ -9,7 +9,7 @@
     "start": "vite --port 5000",
     "dev": "vite",
     "build": "run-p type-check build-only",
-    "preview": "vite preview --port 4173 --host oliversilva.herokuapp.com",
+    "preview": "vite preview --host oliversilva.herokuapp.com",
     "test:unit": "vitest --environment jsdom",
     "test:e2e": "start-server-and-test preview http://localhost:4173/ 'cypress open --e2e'",
     "test:e2e:ci": "start-server-and-test preview http://localhost:4173/ 'cypress run --e2e'",
