@@ -6,7 +6,7 @@
     "node" : "16.14.2"
   },
   "scripts": {
-    "start": "vite --port $PORT",
+    "start": "vite --port 4173",
     "dev": "vite",
     "build": "run-p type-check build-only",
     "preview": "vite preview --port 4173",
