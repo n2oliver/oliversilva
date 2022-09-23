@@ -7,7 +7,7 @@
   },
   "scripts": {
     "start": "npm install && npm run dev",
-    "dev": "cd src && vite",
+    "dev": "cd src && vite --port $PORT",
     "build": "run-p type-check build-only",
     "preview": "cd src && vite preview --port 4173",
     "test:unit": "vitest --environment jsdom",
