@@ -6,10 +6,10 @@
     "node" : "16.14.2"
   },
   "scripts": {
-    "start": "vite --port 5000",
+    "start": "vite --port $PORT",
     "dev": "vite",
     "build": "run-p type-check build-only",
-    "preview": "vite preview --host oliversilva.herokuapp.com",
+    "preview": "vite preview --port 4173",
     "test:unit": "vitest --environment jsdom",
     "test:e2e": "start-server-and-test preview http://localhost:4173/ 'cypress open --e2e'",
     "test:e2e:ci": "start-server-and-test preview http://localhost:4173/ 'cypress run --e2e'",
