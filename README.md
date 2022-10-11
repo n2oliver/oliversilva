@@ -1,2 +1,0 @@
-# Óliver Silva
-Site pessoal
