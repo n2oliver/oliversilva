@@ -11,5 +11,4 @@ const app = createApp(App);
 app.use(createPinia());
 app.use(router);
 
-app.listen(process.env.PORT || 3000);
 app.mount("#app");
