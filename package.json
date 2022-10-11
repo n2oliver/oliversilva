@@ -1,8 +1,12 @@
 {
   "name": "oliversilva",
   "version": "0.0.0",
+  "engines" : { 
+    "npm" : "8.15.1",
+    "node" : "16.14.2"
+  },
   "scripts": {
-    "start": "cd src/dist && vite --port $PORT",
+    "start": "vite --port $PORT",
     "dev": "cd src && vite",
     "build": "run-p type-check build-only",
     "preview": "cd src && vite preview --port 4173",
