@@ -2,7 +2,7 @@
   "name": "oliversilva",
   "version": "0.0.0",
   "scripts": {
-    "start": "node src/server.js",
+    "start": "cd src/dist && vite --port $PORT",
     "dev": "cd src && vite",
     "build": "run-p type-check build-only",
     "preview": "cd src && vite preview --port 4173",
