@@ -6,6 +6,8 @@
     "node" : "16.14.2"
   },
   "scripts": {
+    "postinstall": "npm run build",
+    "start": "node server.js",
     "dev": "cd src && vite",
     "build": "run-p type-check build-only",
     "preview": "cd src && vite preview --port 4173",
@@ -14,9 +16,7 @@
     "test:e2e:ci": "start-server-and-test preview http://localhost:4173/ 'cypress run --e2e'",
     "build-only": "cd src && vite build",
     "type-check": "vue-tsc --noEmit -p src/tsconfig.vitest.json --composite false",
-    "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs,.ts,.tsx,.cts,.mts --fix --ignore-path .gitignore",
-    "postinstall": "npm run build",
-    "start": "node server.js"
+    "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs,.ts,.tsx,.cts,.mts --fix --ignore-path .gitignore"
   },
   "dependencies": {
     "pinia": "^2.0.21",
