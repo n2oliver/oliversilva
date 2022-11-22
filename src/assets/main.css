@@ -9,7 +9,8 @@
 }
 
 body {
-  background-color: hsla(90, 10%, 80%, 0.2);
+  background-color: hsla(90, 10%, 80%, 0.2) !important;
+  color: var(--color-heading) !important;
 }
 a,
 .green {
