@@ -27,7 +27,7 @@ import SupportIcon from './icons/IconSupport.vue'
     <a href="https://vitejs.dev/guide/features.html" target="_blank" rel="noopener">Vite</a>,
     <a href="https://code.visualstudio.com/" target="_blank" rel="noopener">VSCode</a> +
     <a href="https://github.com/johnsoncodehk/volar" target="_blank" rel="noopener">Volar</a>. 
-    Se você precisa que seu softwares possua testes que garantam seu funcionamento, também tenho experiência com
+    Se você precisa que seus sistemas possuam testes que garantam seu funcionamento, também tenho experiência com
     <a href="https://www.cypress.io/" target="_blank" rel="noopener">Cypress</a> e
     <a href="https://on.cypress.io/component" target="_blank">Cypress Component Testing</a> para a criação de testes automatizados.
 
