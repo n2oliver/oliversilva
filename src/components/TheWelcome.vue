@@ -14,7 +14,7 @@ import SupportIcon from './icons/IconSupport.vue'
     </template>
     <template #heading>Amplo conhecimento</template>
 
-    A vasta gama de conhecimento na área de tecnologia permite que softwares únicos sejam produzidos por mim.
+    A vasta gama de conhecimentos na área de tecnologia permite que softwares únicos sejam produzidos por mim.
   </WelcomeItem>
 
   <WelcomeItem>
