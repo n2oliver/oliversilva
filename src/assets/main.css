@@ -8,10 +8,6 @@
   font-weight: normal;
 }
 
-body {
-  background-color: hsla(90, 10%, 80%, 0.2) !important;
-  color: var(--color-heading) !important;
-}
 a,
 .green {
   text-decoration: none;
