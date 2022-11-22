@@ -64,6 +64,7 @@ import SupportIcon from './icons/IconSupport.vue'
 </template>
 
 <script lang="ts">
+declare var VANTA: any;
 VANTA.NET({
   el: "body",
   mouseControls: false,
