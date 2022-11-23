@@ -14,7 +14,7 @@ import SupportIcon from './icons/IconSupport.vue'
     </template>
     <template #heading>Amplo conhecimento</template>
 
-    A vasta gama de conhecimentos na área de tecnologia permite que softwares únicos sejam produzidos por mim.
+    A vasta gama de conhecimentos na área de tecnologia permite que softwares únicos sejam produzidos por Óliver Silva.
   </WelcomeItem>
 
   <WelcomeItem>
@@ -23,7 +23,7 @@ import SupportIcon from './icons/IconSupport.vue'
     </template>
     <template #heading>Ferramental</template>
 
-    Esta página foi construída por mim utilizando a última versão do Vue. Possuo experiência com diversas ferramentas de desenvolvimento, dentre elas
+    Esta página foi construída por Óliver Silva utilizando a última versão do Vue. Possuo experiência com diversas ferramentas de desenvolvimento, dentre elas
     <a href="https://vitejs.dev/guide/features.html" target="_blank" rel="noopener">Vite</a>,
     <a href="https://code.visualstudio.com/" target="_blank" rel="noopener">VSCode</a> +
     <a href="https://github.com/johnsoncodehk/volar" target="_blank" rel="noopener">Volar</a>. 
