@@ -12,7 +12,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
       <nav>
         <RouterLink to="/">Sobre mim</RouterLink>
-        <a href="https://www.instagram.com/meiodiagames" target="_blank" rel="noopener">Meiodia Games</a>
+        <a href="https://meiodiagames.herokuapp.com" target="_blank" rel="noopener">Meiodia Games</a>
       </nav>
     </div>
   </header>
