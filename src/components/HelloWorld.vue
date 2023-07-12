@@ -8,7 +8,7 @@ defineProps<{
   <div class="greetings">
     <h1 class="blue">{{ msg }}</h1>
     <h3>
-      Seja bem-vindo à minha página oficial!
+      Seja bem-vindo!
     </h3>
   </div>
 </template>

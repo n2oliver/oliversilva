@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { RouterLink, RouterView } from 'vue-router'
+import { RouterView } from 'vue-router'
 import HelloWorld from './components/HelloWorld.vue'
 </script>
 
@@ -11,7 +11,6 @@ import HelloWorld from './components/HelloWorld.vue'
       <HelloWorld msg="Olá, tudo bem?" />
 
       <nav>
-        <RouterLink to="/">Sobre mim</RouterLink>
         <a href="https://meiodiagames.herokuapp.com" target="_blank" rel="noopener">Meiodia Games</a>
       </nav>
     </div>
