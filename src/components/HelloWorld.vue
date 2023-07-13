@@ -1,8 +1,8 @@
 <script setup lang="ts">
 defineProps<{
-  msg: string;
-  apresentacao: string;
-  bemvindo: string;
+  msg: string,
+  apresentacao: string,
+  bemvindo: string,
 }>();
 </script>
 
