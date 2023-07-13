@@ -8,7 +8,7 @@ import HelloWorld from './components/HelloWorld.vue'
     <img alt="Vue logo" class="logo" src="@/assets/me-too.jpg" width="125" height="125" />
 
     <div class="wrapper">
-      <HelloWorld msg="Olá, tudo bem?" />
+      <HelloWorld msg="Olá, tudo bem?" apresentacao="Sou Óliver Silva!" bemvindo="Seja bem-vindo(a) à minha página!" />
 
       <nav>
         <a href="https://meiodiagames.herokuapp.com" target="_blank" rel="noopener">Meiodia Games</a>

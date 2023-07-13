@@ -14,7 +14,7 @@ import SupportIcon from './icons/IconSupport.vue'
     </template>
     <template #heading>Amplo conhecimento</template>
 
-    A vasta gama de conhecimentos na área de tecnologia permite que softwares únicos sejam produzidos por Óliver Silva.
+    A vasta gama de conhecimentos na área de tecnologia permite que eu desenvolva softwares únicos.
   </WelcomeItem>
 
   <WelcomeItem>
@@ -23,7 +23,7 @@ import SupportIcon from './icons/IconSupport.vue'
     </template>
     <template #heading>Ferramental</template>
 
-    Esta página foi construída por Óliver Silva utilizando a última versão do Vue. Possuo experiência com diversas ferramentas de desenvolvimento, dentre elas
+    Esta página foi construída por Óliver Silva utilizando a última versão do Vue. O desenvolvedor possui experiência com diversas ferramentas de desenvolvimento, dentre elas
     <a href="https://vitejs.dev/guide/features.html" target="_blank" rel="noopener">Vite</a>,
     <a href="https://code.visualstudio.com/" target="_blank" rel="noopener">VSCode</a> +
     <a href="https://github.com/johnsoncodehk/volar" target="_blank" rel="noopener">Volar</a>. 
@@ -33,7 +33,7 @@ import SupportIcon from './icons/IconSupport.vue'
 
     <br />
 
-    Meu endereço no Github é <a href="https://github.com/n2oliver">https://github.com/n2oliver</a>.
+    O endereço do desenvolvedor no Github é <a href="https://github.com/n2oliver">https://github.com/n2oliver</a>.
   </WelcomeItem>
 
   <WelcomeItem>
@@ -41,7 +41,7 @@ import SupportIcon from './icons/IconSupport.vue'
       <EcosystemIcon />
     </template>
     <template #heading>Ambientes</template>
-    Possuo conhecimento em ambientes de software portáteis com 
+    Possui conhecimento em ambientes de software portáteis com 
     <a href="https://www.docker.com/" target="_blank" rel="noopener">Docker</a> 
     para operação das aplicações em diversos ambientes.
   </WelcomeItem>
